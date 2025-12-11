@@ -29,25 +29,29 @@
   },
   "homepage": "https://github.com/iamacup/react-native-markdown-display/",
   "dependencies": {
-    "css-to-react-native": "^3.0.0",
-    "markdown-it": "^10.0.0",
-    "prop-types": "^15.7.2",
+    "css-to-react-native": "^3.2.0",
+    "markdown-it": "^14.1.0",
+    "prop-types": "^15.8.1",
     "react-native-fit-image": "^1.5.5"
   },
   "peerDependencies": {
-    "react": ">=16.2.0",
-    "react-native": ">=0.50.4"
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
   },
   "devDependencies": {
-    "@types/markdown-it": "^10.0.1",
-    "@types/react-native": ">=0.50.0",
-    "@babel/core": "^7.9.6",
-    "@babel/runtime": "^7.9.6",
-    "@react-native-community/eslint-config": "^1.1.0",
-    "@typescript-eslint/parser": "^2.32.0",
-    "eslint": "^7.0.0",
-    "json-schema": "^0.2.5",
-    "pre-commit": "1.2.2",
-    "typescript": "^3.8.3"
+    "@types/markdown-it": "^14.1.2",
+    "@types/react-native": ">=0.60.0",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.26.0",
+    "@babel/runtime": "^7.26.0",
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@typescript-eslint/parser": "^8.49.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.5.4",
+    "json-schema": "^0.4.0",
+    "pre-commit": "^1.2.2",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
   }
 }
